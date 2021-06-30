@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b45acc4.chunk.css",
+    "main.js": "/static/js/main.3a9f2eeb.chunk.js",
+    "main.js.map": "/static/js/main.3a9f2eeb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fa676e63.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fa676e63.js.map",
+    "static/js/2.1fbf0ea9.chunk.js": "/static/js/2.1fbf0ea9.chunk.js",
+    "static/js/2.1fbf0ea9.chunk.js.map": "/static/js/2.1fbf0ea9.chunk.js.map",
+    "static/js/3.a4def63d.chunk.js": "/static/js/3.a4def63d.chunk.js",
+    "static/js/3.a4def63d.chunk.js.map": "/static/js/3.a4def63d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4b45acc4.chunk.css.map": "/static/css/main.4b45acc4.chunk.css.map",
+    "static/js/2.1fbf0ea9.chunk.js.LICENSE.txt": "/static/js/2.1fbf0ea9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/CorradineHandwriting.5f5729fe.otf",
+    "static/media/avatar.127e4f1c.jpeg": "/static/media/avatar.127e4f1c.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa676e63.js",
+    "static/js/2.1fbf0ea9.chunk.js",
+    "static/css/main.4b45acc4.chunk.css",
+    "static/js/main.3a9f2eeb.chunk.js"
+  ]
+}
