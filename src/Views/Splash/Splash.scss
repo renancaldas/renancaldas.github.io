@@ -1,0 +1,33 @@
+
+.splash {
+    background-image: url('../../assets/splash.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: end;
+    
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+
+    .footer {
+        width: 200vw;
+        height: 20px;
+        background-color: black;
+        background-image: url('../../assets/progress.png');
+        background-repeat: repeat-x;
+        background-size: cover;
+        position: relative;
+        animation: scrollText 0.5s infinite linear;
+    }
+}
+
+@keyframes scrollText {
+    from {
+      left: -25%;
+    }
+    to {
+        left: 25%;
+    }
+  }

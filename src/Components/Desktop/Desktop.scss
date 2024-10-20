@@ -1,0 +1,15 @@
+.desktop-icon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    width: 90px;
+    height: 90px;
+
+    gap: 10px;
+
+    .desktop-icon-text {
+        color: white;
+    }
+}
